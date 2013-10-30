@@ -1,0 +1,4 @@
+:%s/\.\/index\.shtml/http\:\/\/www\.theheronsnest\.com/
+:%s/\.\/contents\.html/http\:\/\/www\.theheronsnest\.com\/haiku\/
+:%s/\.\/about\.html/http\:\/\/www\.theheronsnest\.com\/journal\/
+:%s/\.\/connections\.html/http\:\/\/www\.theheronsnest\.com\/connections\/
