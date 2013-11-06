@@ -15,7 +15,7 @@
 <HEAD>
 	<TITLE>The Heron's Nest</TITLE> 
 	<META NAME="generator" CONTENT="BBEdit 5.1">
-	<BASE HREF="http://www.theheronsnest.com/haiku/">
+	<BASE HREF="http://www.haikupoet.com/nest/haiku/">
 	<META NAME="description" CONTENT="The Heron's Nest: a haikai journal">
 	<META NAME="keywords"
 		CONTENT="The Heron's Nest,haiku,tanka,renku,renga,poetry,haibun,rengay,Christopher Herold,Alex Benedict">
@@ -28,14 +28,14 @@
 	<!--    email: alexb@adianta.com                -->
 	<!--    ********************************        -->
 </HEAD>
-<BODY BACKGROUND="http://www.theheronsnest.com/images/bkgnd00.gif">
+<BODY BACKGROUND="http://www.haikupoet.com/nest/images/bkgnd00.gif">
 <TABLE BORDER="0" WIDTH="600">
 	<TR>
 		<TD WIDTH="150">
 		&nbsp;
 		</TD>
 		<TD ROWSPAN="3" VALIGN="TOP">
-			<IMG SRC="http://www.theheronsnest.com/images/heron.lr.gif" ALIGN="TOP" BORDER="0" HEIGHT="140" WIDTH="120"> 
+			<IMG SRC="http://www.haikupoet.com/nest/images/heron.lr.gif" ALIGN="TOP" BORDER="0" HEIGHT="140" WIDTH="120"> 
 		</TD>
 		<TD WIDTH="400">
 			<H1><FONT FACE="ARIAL" COLOR="#6666CC">The Heron&acute;s Nest
@@ -61,7 +61,7 @@
 		Other
 -->
 		&nbsp;&#149;&nbsp;
-		<A HREF="http://www.theheronsnest.com/journal">About</A>
+		<A HREF="http://www.haikupoet.com/nest/journal">About</A>
 <!--
 		&nbsp;&#149;&nbsp;
 		Connections
